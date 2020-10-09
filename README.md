@@ -33,7 +33,7 @@ class HardDisk {
         HardDisk hd = new HardDisk();
 '''
 ## 4.流程图
-```
+```flow
 st=>start:start
 op=>operation: harddisk
 op=>operation: cpu

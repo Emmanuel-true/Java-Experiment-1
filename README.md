@@ -33,13 +33,14 @@ class HardDisk {
         HardDisk hd = new HardDisk();
 '''
 ## 4.流程图
-```flow
+```
 st=>start:start
 op=>operation: harddisk
 op=>operation: cpu
 op=>operation: moutherboard
 op=>operation: pc
 e=>end
+st->op->e
 ```
 ## 5.实验结果
 '''

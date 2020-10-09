@@ -33,7 +33,7 @@ class HardDisk {
         HardDisk hd = new HardDisk();
 '''
 ## 4.流程图
-[打开流程图]()
+[打开流程图](https://github.com/chinazhanghaoyu/Java-Experiment-1/blob/main/java-Experiment-1.png)
 ## 5.实验结果
 '''
 moutherBoard was msi

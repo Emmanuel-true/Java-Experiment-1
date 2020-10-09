@@ -33,13 +33,7 @@ class HardDisk {
         HardDisk hd = new HardDisk();
 '''
 ## 4.流程图
-```mermaid
-graph LR
-id0(start)-->id1(cpu)-->id(test)
-id0(start)-->id2(moutherboard)-->id(test)
-id0(start)-->id3(pc)-->id(test)
-id0(start)-->id4(harddisk)-->id(test)
-```
+[打开流程图]()
 ## 5.实验结果
 '''
 moutherBoard was msi

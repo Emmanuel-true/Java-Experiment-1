@@ -33,14 +33,12 @@ class HardDisk {
         HardDisk hd = new HardDisk();
 '''
 ## 4.流程图
-```flow
-st=>start:start
-op=>operation: harddisk
-op=>operation: cpu
-op=>operation: moutherboard
-op=>operation: pc
-e=>end
-st->op->e
+```mermaid
+graph LR
+id0(start)-->id1(cpu)-->id(test)
+id0(start)-->id2(moutherboard)-->id(test)
+id0(start)-->id3(pc)-->id(test)
+id0(start)-->id4(harddisk)-->id(test)
 ```
 ## 5.实验结果
 '''

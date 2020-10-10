@@ -17,7 +17,7 @@ class HardDisk {
 2.自建了一个主板对象。
 ## 3.核心方法
 1.
-'''Java
+```Java
 
     void setCpu(cpu cpu){
         this.cpu = cpu;
@@ -29,19 +29,19 @@ class HardDisk {
         this.mb = mb;
     }
 
-'''
+```
 2.
-'''Java
+```Java
 
         moutherBoard mb = new moutherBoard();
         cpu cpu = new cpu();
         HardDisk hd = new HardDisk();
 
-'''
+```
 ## 4.流程图
 [打开流程图](https://github.com/chinazhanghaoyu/Java-Experiment-1/blob/main/java-Experiment-1.png)
 ## 5.实验结果
-'''markdown
+```markdown
 
 moutherBoard was msi
 moutherBoard's price was 6000
@@ -50,7 +50,7 @@ cpu's speed is 2200
 HardDisk's capacity is 200
 HardDisk's speed was 5400
 
-'''
+```
 ## 6.实验感想
 1.通过这次实验学习到了public,private,default的不同
 2.练习了重构

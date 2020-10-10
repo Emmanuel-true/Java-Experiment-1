@@ -17,7 +17,7 @@ class HardDisk {
 2.自建了一个主板对象。
 ## 3.核心方法
 1.
-'''
+'''Java
 
     void setCpu(cpu cpu){
         this.cpu = cpu;
@@ -31,7 +31,7 @@ class HardDisk {
 
 '''
 2.
-'''
+'''Java
 
         moutherBoard mb = new moutherBoard();
         cpu cpu = new cpu();
@@ -41,7 +41,7 @@ class HardDisk {
 ## 4.流程图
 [打开流程图](https://github.com/chinazhanghaoyu/Java-Experiment-1/blob/main/java-Experiment-1.png)
 ## 5.实验结果
-'''
+'''markdown
 
 moutherBoard was msi
 moutherBoard's price was 6000

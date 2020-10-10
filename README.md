@@ -16,7 +16,8 @@ class HardDisk {
 '''
 2.自建了一个主板对象。
 ## 3.核心方法
-1.'''
+1.
+'''
     void setCpu(cpu cpu){
         this.cpu = cpu;
     }
@@ -27,7 +28,8 @@ class HardDisk {
         this.mb = mb;
     }
 '''
-2.'''
+2.
+'''
         moutherBoard mb = new moutherBoard();
         cpu cpu = new cpu();
         HardDisk hd = new HardDisk();

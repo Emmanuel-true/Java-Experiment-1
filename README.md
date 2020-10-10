@@ -18,6 +18,7 @@ class HardDisk {
 ## 3.核心方法
 1.
 '''
+
     void setCpu(cpu cpu){
         this.cpu = cpu;
     }
@@ -27,6 +28,7 @@ class HardDisk {
     void setMoutherBoard(moutherBoard mb){
         this.mb = mb;
     }
+
 '''
 2.
 '''

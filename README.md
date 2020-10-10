@@ -57,5 +57,5 @@ HardDisk's speed was 5400
  1. 通过这次实验学习到了public,private,default的不同
  2. 练习了重构
  3. 学习了构建方法
- 4. 学会了如何使用markdown，markdown修改了无数次终于对了
-#### 我是计G202的张昊宇
+ 4. 学会了如何使用markdown 
+ ~markdown修改了无数次终于对了~

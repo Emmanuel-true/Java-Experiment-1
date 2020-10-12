@@ -16,7 +16,7 @@ class HardDisk {
     private int speed;
 
 ```
-2.自建了一个主板对象。
+2.自建了主板对象以及屏幕对象。
 ## 3.核心方法
 1.
 ```Java

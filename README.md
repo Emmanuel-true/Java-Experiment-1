@@ -43,6 +43,7 @@ class HardDisk {
 ## 4.流程图
 [不含附加要求4的流程图](https://github.com/Emmanuel-true/Java-Experiment-1/blob/main/JAVA-1.html)
 [附加要求4的流程图](https://github.com/Emmanuel-true/Java-Experiment-1/blob/main/%E9%99%84%E5%8A%A0%E8%A6%81%E6%B1%824.html)
+**请把流程图下载下来用浏览器打开markdown编辑器生成的图不对**
 ## 5.实验结果
 ```markdown
 

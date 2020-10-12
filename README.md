@@ -30,6 +30,9 @@ class HardDisk {
     void setMoutherBoard(moutherBoard mb){
         this.mb = mb;
     }
+    void setScreen(Screen sc){
+        this.sc = sc;
+    }
 
 ```
 2.
@@ -38,6 +41,7 @@ class HardDisk {
         moutherBoard mb = new moutherBoard();
         cpu cpu = new cpu();
         HardDisk hd = new HardDisk();
+        Screen sc = new Screen();
 
 ```
 ## 4.流程图

@@ -1,10 +1,10 @@
-package computer;
-
-class pc {
-    private cpu cpu;
-    private HardDisk hd;
-    private moutherBoard mb;
-    private Screen sc;
+package outside;
+import inside.*;
+public class pc {
+    private inside.cpu cpu;
+    private inside.HardDisk hd;
+    private inside.moutherBoard mb;
+    private inside.Screen sc;
     void setCpu(cpu cpu){
         this.cpu = cpu;
     }

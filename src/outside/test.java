@@ -1,11 +1,12 @@
-package computer;
+package outside;
+import inside.*;
 
 public class test {
     public static void main(String[] args){
-        moutherBoard mb = new moutherBoard();
-        cpu cpu = new cpu();
-        HardDisk hd = new HardDisk();
-        Screen sc = new Screen();
+        inside.moutherBoard mb = new inside.moutherBoard();
+        inside.cpu cpu = new inside.cpu();
+        inside.HardDisk hd = new inside.HardDisk();
+        inside.Screen sc = new inside.Screen();
         sc.setRefresh_rate(240);
         sc.setSize((float) 15.6);
         mb.setId("msi");

@@ -41,15 +41,17 @@ class HardDisk {
 
 ```
 ## 4.流程图
-[打开流程图](https://github.com/chinazhanghaoyu/Java-Experiment-1/blob/main/java-Experiment-1.png)
+[打开流程图]()
 ## 5.实验结果
 ```markdown
 
+The Screen size was 15.6
+The Screen's refresh rate was 240
 moutherBoard was msi
 moutherBoard's price was 6000
 cpu's name is i7
 cpu's speed is 2200
-HardDisk's capacity is 200
+HardDisk's capacity is 200GB
 HardDisk's speed was 5400
 
 ```
@@ -59,3 +61,5 @@ HardDisk's speed was 5400
  3. 学习了构建方法
  4. 学会了如何使用markdown 
  ~markdown修改了无数次终于对了~
+ 5.练习了包外调用
+ 

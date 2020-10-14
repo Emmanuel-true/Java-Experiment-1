@@ -42,7 +42,6 @@ class HardDisk {
 ```
 ## 4.流程图
 [流程图](https://github.com/Emmanuel-true/Java-Experiment-1/blob/main/Java-Experiment-1.jpg)
-**请把流程图下载下来用浏览器打开markdown编辑器生成的图不对**
 ## 5.实验结果
 ```markdown
 The Screen size was 15.6

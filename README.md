@@ -19,8 +19,7 @@ class HardDisk {
 2.自建了主板对象以及屏幕对象。
 ## 3.核心方法
 1.
-```Java
-
+```
     void setCpu(cpu cpu){
         this.cpu = cpu;
     }
@@ -33,16 +32,13 @@ class HardDisk {
     void setScreen(Screen sc){
         this.sc = sc;
     }
-
 ```
 2.
-```Java
-
+```
         moutherBoard mb = new moutherBoard();
         cpu cpu = new cpu();
         HardDisk hd = new HardDisk();
         Screen sc = new Screen();
-
 ```
 ## 4.流程图
 [不含附加要求4的流程图](https://github.com/Emmanuel-true/Java-Experiment-1/blob/main/JAVA-1.html)
@@ -50,7 +46,6 @@ class HardDisk {
 **请把流程图下载下来用浏览器打开markdown编辑器生成的图不对**
 ## 5.实验结果
 ```markdown
-
 The Screen size was 15.6
 The Screen's refresh rate was 240
 moutherBoard was msi
@@ -59,7 +54,6 @@ cpu's name is i7
 cpu's speed is 2200
 HardDisk's capacity is 200GB
 HardDisk's speed was 5400
-
 ```
 ## 6.实验感想
  1. 通过这次实验学习到了public,private,default的不同

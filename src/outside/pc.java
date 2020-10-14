@@ -1,6 +1,6 @@
 package outside;
 import inside.*;
-public class pc {
+class pc {
     private inside.cpu cpu;
     private inside.HardDisk hd;
     private inside.moutherBoard mb;

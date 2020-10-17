@@ -1,23 +1,32 @@
 # Java-Experiment-1
 ###### ~2020322091 张昊宇 计G202~
 ## 1.实验内容
-- 1.基本要求是完成教材P110页的第四题关于PC、memory、cpu及其他模拟的程序。
+- 1.基本要求是完成教材P110页的第四题关于PC，cpu及其他模拟的程序。
 - 2.附加要求是{
  1. 类中定义不少于两个构造方法；
  2. 每个类定义不少于两个属性，且属性的类型应该多样化；
  3. 根据课堂中关于访问权限的内容，尝试定义属性的修饰符多样化，类中定义方法操作属性，避免直接通过“类对象.属性”的形式访问属性值；且定义的方法内应该有符合常理的逻辑判断
  4. 尝试把本次实验的多个类放置在不同的包中，体会修饰符private的用法。
 }
-## 2.实验设计
-1.设置硬盘对象，给硬盘对象设置amount，speed方法。设置amount，speed方法在硬盘对象外不可访问(其他对象通用)
-```
 
-class HardDisk {
-    private int amount;
-    private int speed;
+---
 
-```
-2.自建了主板对象以及屏幕对象。
+## 2.实验设计/实验过程
+1. 根据书上给出的内容写出cpu,harddisk,pc,test方法，因为附加要求需要使用定义方法操作属性于是写出方法
+```java
+    public void setAmount(int amount){
+        this.amount = amount;
+    }
+    public void setSpeed(int speed){
+        this.speed = speed;
+    }
+``` 
+***其他类中相似***
+2. 根据附加要求4类要放到不同的包内，cpu，harddisk和pc，test放在不同的包中
+3. 根据类要多样化，自定义了screen和moutheboard类
+
+---
+
 ## 3.核心方法
 1.
 ```
@@ -41,8 +50,14 @@ class HardDisk {
         HardDisk hd = new HardDisk();
         Screen sc = new Screen();
 ```
+
+---
+
 ## 4.流程图
 [流程图](https://github.com/Emmanuel-true/Java-Experiment-1/blob/main/Java-Experiment-1.jpg)
+
+---
+
 ## 5.实验结果
 ```markdown
 The Screen size was 15.6

@@ -82,7 +82,7 @@ HardDisk's speed was 5400
  1. 通过这次实验学习到了public,private,default的不同
  2. 练习了重构
  3. 学习了构建方法
- 4. [x]没学会了如何使用markdown 
+ 4. [x]没学会如何使用markdown 
 ###### ~markdown修改了无数次终于对了~
 ***10.17还是有不对的，无语***
 ***这啥为啥有的字体不对啊***

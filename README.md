@@ -54,7 +54,7 @@
 ---
 
 ## 4.流程图
-[流程图](https://github.com/Emmanuel-true/Java-Experiment-1/blob/main/Java-Experiment-1.jpg)
+![流程图](https://github.com/Emmanuel-true/Java-Experiment-1/blob/main/Java-Experiment-1.jpg)
 
 ---
 

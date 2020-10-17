@@ -75,6 +75,9 @@ cpu's speed is 2200
 HardDisk's capacity is 200GB
 HardDisk's speed was 5400
 ```
+
+---
+
 ## 6.实验感想
  1. 通过这次实验学习到了public,private,default的不同
  2. 练习了重构

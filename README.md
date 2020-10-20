@@ -59,8 +59,7 @@
 ***貌似图片有点问题不能打开的话***
 [emmmm](https://github.com/Emmanuel-true/Java-Experiment-1/blob/main/JAVA-1.html)
 ***请把html 下载下来，在浏览器里打开***
-***这啥情况为啥有的字斜体有的不斜啊~
-再修把...why...emmmmmm***
+
 
 ---
 
@@ -84,9 +83,6 @@ HardDisk's speed was 5400
  3. 学习了构建方法
  4. [x]没学会如何使用markdown 
  5. 练习了包外调用
-   ###### ~markdown修改了无数次终于对了~
-   ***10.17还是有不对的，无语***
-   ***这啥为啥有的字体不对啊***
-   ***为啥有的粗有的细啊***
+   ~看来是我电脑的问题~
 
  
